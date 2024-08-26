@@ -1,4 +1,4 @@
-![Screenshot (69)](https://github.com/user-attachments/assets/724a414a-ad48-4863-a9c4-8888266fa60f)# Sales-Management-Dashboard
+
 
 Introduction:
 
